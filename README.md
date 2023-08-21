@@ -3,4 +3,4 @@ The goal of this model is to mimic the behavior of M11 motor clusters of the typ
 
 Steps only occur if a single head is bound. Otherwise, the second head serves as an anchor of sorts and prevents the internal power-stroke of the motor head to be converted into the motion of the cluster at large. As we are interested in the long time behavior of these motors we start by assuming that the relaxation of any internal strains (i.e. the powerstroke) is much faster than the biochemical transition rates. This allows us to specify the position of the motor knowing only the previous position and the current biochemical state of all the heads.
 
-A full description of the model including the choices for all parameters can be found in Redford et. al. 2022.
+A full description of the model including the choices for all parameters can be found in the preprint.
